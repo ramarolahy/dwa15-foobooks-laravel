@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    <b>Laravel</b><br>
+                    Foobooks by Mbinintsoa
                 </div>
 
                 <div class="links">
